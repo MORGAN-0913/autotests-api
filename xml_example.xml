@@ -1,0 +1,9 @@
+<persona>
+    <name>Vasya</name>
+    <age>30</age>
+    <address>
+        <city>Moscow</city>
+        <street>Polyani</street>
+        <house>1a</house>
+    </address>
+</persona>
