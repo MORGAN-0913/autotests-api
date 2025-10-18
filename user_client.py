@@ -1,5 +1,3 @@
-from urllib import request
-
 import grpc
 
 import user_service_pb2
